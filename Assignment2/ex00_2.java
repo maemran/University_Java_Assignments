@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Assignment00 {
+public class ex00_2 {
 
     public static void main(String[] args) 
     {
