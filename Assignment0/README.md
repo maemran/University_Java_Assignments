@@ -1,1 +1,1 @@
-[📄 View the Assignment0](../pdf_files/Assignment0.pdf)
+[📄 View Assignment0](../pdf_files/Assignment0.pdf)
